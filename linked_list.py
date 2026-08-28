@@ -62,7 +62,7 @@ class Linked_list:
 new_list = Linked_list()
 
 while True:
-    print("\n---Menu---")
+    print("\n---nuevo Menu---")
     print("1. Insertar cancion")
     print("2. Buscar cancion")
     print("3. Mostrar canciones")
